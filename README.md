@@ -14,4 +14,3 @@ A centralized web application to assist students at SASTRA University in their p
 - 📢 **Announcements**: Share updates, eligibility lists, and important dates.
 - 🧑‍💻 **Company Management**: Add/remove company profiles and drive info.
 - 📊 **View Student Progress** *(upcoming)*: Monitor batch-wise progress anonymously.
-login
